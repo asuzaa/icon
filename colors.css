@@ -1,0 +1,7 @@
+/* HEIKO'S COLORS & UNICODES */
+
+#elian {
+  --unicode:'\e900';
+  --main: 35, 35, 61;
+  --alt:  7, 19, 33;
+}
